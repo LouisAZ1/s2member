@@ -1,0 +1,11 @@
+This will summarize an issue I had with my WP website.  About a week ago, I noted that the banner image on our website was not loading. 
+This is the same image we've been using for a few years.  
+I contacted BlueHost and spoke with several of their Level 1 support techs over a 3 day perios.  
+They determined that there was nothing wrong eith the WordPress program.  
+One of the BlueHost reps discovered that it was the s2Member plugin that was causing the issue.
+I deactivated the s2Member plugin and the website is not running as it should -- sans the the features that were provided by s2Member.
+I would be interersted in knowing if other WP website admins have had similar problems.
+I would also like to know the if I completely remove s2Member from my website, could there be any consequences -- other than losing 
+the member data gathered by s2Member.  At the moment, s2Member is "deactivated" but not removed from my website.
+Thanks,
+Louis
